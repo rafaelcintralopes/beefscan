@@ -4,21 +4,15 @@ Scaner para identificar se um determinado site tem código malicioso usado pelo 
 
 Script desenvolvido em Python 3
 
-
-
-
-██████╗ ███████╗███████╗███████╗    ███████╗ ██████╗ █████╗ ███╗   ██╗
-██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║
-██████╔╝█████╗  █████╗  █████╗      ███████╗██║     ███████║██╔██╗ ██║
-██╔══██╗██╔══╝  ██╔══╝  ██╔══╝      ╚════██║██║     ██╔══██║██║╚██╗██║
-██████╔╝███████╗███████╗██║         ███████║╚██████╗██║  ██║██║ ╚████║
-╚═════╝ ╚══════╝╚══════╝╚═╝         ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
                                                                       
-> Desenvolvido por Rafael Cintra Lopes
-> Site: https://rafaelcintralopes.com.br  |  Email: rafaelcintralopes@gmail.com
 
-Modo de usar: 
+## Modo de usar: 
     -u URL
 
-Exemplo: python beefscan.py -u https://google.com
+> Exemplo: python beefscan.py -u https://google.com
 
+
+
+
+Desenvolvido por Rafael Cintra Lopes
+Site: https://rafaelcintralopes.com.br  |  Email: rafaelcintralopes@gmail.com
