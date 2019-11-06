@@ -1,6 +1,6 @@
 # BeEF Scan
 
-Scaner para identificar se um determinado site tem código malicioso usado pelo BeEF Framework. 
+Scanner para identificar se um determinado site tem código malicioso usado pelo BeEF Framework. 
 
 Script desenvolvido em Python 3
 
